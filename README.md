@@ -1,2 +1,3 @@
-# data-analytics
-Course material for MM1 Data Analytics 
+# Data Analytics
+
+Course material for MM1 Data Analytics.
