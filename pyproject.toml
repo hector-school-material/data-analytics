@@ -1,0 +1,13 @@
+[project]
+name = "Hector2025"
+version = "1.0.0"
+description = "Python environment for Hector School 2025"
+readme = "README.md"
+requires-python = "==3.13.7"
+dependencies = [
+    "notebook==7.4.5",
+    "numpy==2.3.3",
+    "pandas==2.3.2",
+    "scikit-learn==1.7.2",
+    "seaborn==0.13.2",
+]
